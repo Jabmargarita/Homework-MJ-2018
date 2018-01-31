@@ -1,0 +1,4 @@
+C:\Users\BC4276\Downloads\Homework-MJ-master\HomeworkSecond\HomeworkSecond\obj\Debug\netcoreapp2.0\HomeworkSecond.csprojResolveAssemblyReference.cache
+C:\Users\BC4276\Downloads\Homework-MJ-master\HomeworkSecond\HomeworkSecond\obj\Debug\netcoreapp2.0\HomeworkSecond.csproj.CoreCompileInputs.cache
+C:\Users\BC4276\Downloads\Homework-MJ-master\HomeworkSecond\HomeworkSecond\obj\Debug\netcoreapp2.0\HomeworkSecond.AssemblyInfoInputs.cache
+C:\Users\BC4276\Downloads\Homework-MJ-master\HomeworkSecond\HomeworkSecond\obj\Debug\netcoreapp2.0\HomeworkSecond.AssemblyInfo.cs
