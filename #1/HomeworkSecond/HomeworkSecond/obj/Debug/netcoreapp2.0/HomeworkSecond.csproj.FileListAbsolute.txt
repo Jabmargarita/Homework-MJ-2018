@@ -2,3 +2,12 @@ C:\Users\BC4276\Downloads\Homework-MJ-master\HomeworkSecond\HomeworkSecond\obj\D
 C:\Users\BC4276\Downloads\Homework-MJ-master\HomeworkSecond\HomeworkSecond\obj\Debug\netcoreapp2.0\HomeworkSecond.csproj.CoreCompileInputs.cache
 C:\Users\BC4276\Downloads\Homework-MJ-master\HomeworkSecond\HomeworkSecond\obj\Debug\netcoreapp2.0\HomeworkSecond.AssemblyInfoInputs.cache
 C:\Users\BC4276\Downloads\Homework-MJ-master\HomeworkSecond\HomeworkSecond\obj\Debug\netcoreapp2.0\HomeworkSecond.AssemblyInfo.cs
+C:\Users\BC4276\Desktop\Homework-MJ-master\HomeworkSecond\HomeworkSecond\obj\Debug\netcoreapp2.0\HomeworkSecond.csprojResolveAssemblyReference.cache
+C:\Users\BC4276\Desktop\Homework-MJ-master\HomeworkSecond\HomeworkSecond\obj\Debug\netcoreapp2.0\HomeworkSecond.csproj.CoreCompileInputs.cache
+C:\Users\BC4276\Desktop\Homework-MJ-master\HomeworkSecond\HomeworkSecond\obj\Debug\netcoreapp2.0\HomeworkSecond.AssemblyInfoInputs.cache
+C:\Users\BC4276\Desktop\Homework-MJ-master\HomeworkSecond\HomeworkSecond\obj\Debug\netcoreapp2.0\HomeworkSecond.AssemblyInfo.cs
+C:\Users\BC4276\Desktop\Homework-MJ-master\HomeworkSecond\HomeworkSecond\bin\Debug\netcoreapp2.0\HomeworkSecond.deps.json
+C:\Users\BC4276\Desktop\Homework-MJ-master\HomeworkSecond\HomeworkSecond\bin\Debug\netcoreapp2.0\HomeworkSecond.dll
+C:\Users\BC4276\Desktop\Homework-MJ-master\HomeworkSecond\HomeworkSecond\bin\Debug\netcoreapp2.0\HomeworkSecond.pdb
+C:\Users\BC4276\Desktop\Homework-MJ-master\HomeworkSecond\HomeworkSecond\obj\Debug\netcoreapp2.0\HomeworkSecond.dll
+C:\Users\BC4276\Desktop\Homework-MJ-master\HomeworkSecond\HomeworkSecond\obj\Debug\netcoreapp2.0\HomeworkSecond.pdb

@@ -5646,11 +5646,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\BC4276\\Downloads\\Homework-MJ-master\\HomeworkSecond\\HomeworkSecond.Tests\\HomeworkSecond.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\BC4276\\Desktop\\Homework-MJ-master\\HomeworkSecond\\HomeworkSecond.Tests\\HomeworkSecond.Tests.csproj",
       "projectName": "HomeworkSecond.Tests",
-      "projectPath": "C:\\Users\\BC4276\\Downloads\\Homework-MJ-master\\HomeworkSecond\\HomeworkSecond.Tests\\HomeworkSecond.Tests.csproj",
+      "projectPath": "C:\\Users\\BC4276\\Desktop\\Homework-MJ-master\\HomeworkSecond\\HomeworkSecond.Tests\\HomeworkSecond.Tests.csproj",
       "packagesPath": "C:\\Users\\BC4276\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\BC4276\\Downloads\\Homework-MJ-master\\HomeworkSecond\\HomeworkSecond.Tests\\obj\\",
+      "outputPath": "C:\\Users\\BC4276\\Desktop\\Homework-MJ-master\\HomeworkSecond\\HomeworkSecond.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5669,8 +5669,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\BC4276\\Downloads\\Homework-MJ-master\\HomeworkSecond\\HomeworkSecond\\HomeworkSecond.csproj": {
-              "projectPath": "C:\\Users\\BC4276\\Downloads\\Homework-MJ-master\\HomeworkSecond\\HomeworkSecond\\HomeworkSecond.csproj"
+            "C:\\Users\\BC4276\\Desktop\\Homework-MJ-master\\HomeworkSecond\\HomeworkSecond\\HomeworkSecond.csproj": {
+              "projectPath": "C:\\Users\\BC4276\\Desktop\\Homework-MJ-master\\HomeworkSecond\\HomeworkSecond\\HomeworkSecond.csproj"
             }
           }
         }

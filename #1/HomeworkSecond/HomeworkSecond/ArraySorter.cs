@@ -13,7 +13,7 @@ namespace HomeworkSecond
 
             for (int i = 0; i < size; i++)
             {
-                for (int j = 0; j < size - i - 1; j++)
+                for (int j = 0; j < size - 1; j++)
                 {
                     if (arr[j] > arr[j + 1])
                     {
@@ -23,7 +23,7 @@ namespace HomeworkSecond
                         arr[j] = temp;
                     }
                 }
-            }
+            } return arr;
         }
 
         // TODO : Sort array descending order. Use loop of your choice.
@@ -35,17 +35,17 @@ namespace HomeworkSecond
 
             for (int i = 0; i < size; i++)
             {
-                for (int j = 0; j < size - i - 1; j++)
+                for (int j = i; j < size ; j++)
                 {
-                    if (arr[j] < arr[j + 1])
+                    if (arr[i] < arr[j])
                     {
                         //Swap the elements
-                        int temp = arr[j + 1];
-                        arr[j + 1] = arr[j];
+                        int temp = arr[i];
+                        arr[i] = arr[j];
                         arr[j] = temp;
                     }
                 }
-            }
+            }return arr;
         }
     }
 }

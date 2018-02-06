@@ -35,6 +35,18 @@ namespace HomeworkFirst
         public static int LastIntegerIndex(int[] items, int numberToFind)
 
         {
+            
+            for (int i = items.Length - 1; i>=0; i--)
+            {
+                if (numberToFind == items[i])
+                {
+                    return i;
+                }
+            }
+
+
+
+
             //pazymim kur gali buti mano numberToFind in the array
             int low = 0;
             int high = items.Length - 1;
@@ -61,6 +73,14 @@ namespace HomeworkFirst
         // TODO : Find index of last occurrence in given array. Solve using loop of your choice.
         public static int FirstIntegerIndex(int[] items, int numberToFind)
         {
+
+            for (int i = 0; i < items.Length; i++)
+            {
+                if (numberToFind == items[i])
+                {
+                    return i;
+                }
+            }
           
             int low = 0;
             int high = items.Length - 1;

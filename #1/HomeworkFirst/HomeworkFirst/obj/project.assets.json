@@ -664,7 +664,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Dell\\.nuget\\packages\\": {},
+    "C:\\Users\\BC4276\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -673,17 +673,17 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dell\\Documents\\GitHub\\Homework-MJ-2018\\HomeworkFirst\\HomeworkFirst\\HomeworkFirst.csproj",
+      "projectUniqueName": "C:\\Users\\BC4276\\Desktop\\Homework-MJ-master\\HomeworkFirst\\HomeworkFirst\\HomeworkFirst.csproj",
       "projectName": "HomeworkFirst",
-      "projectPath": "C:\\Users\\Dell\\Documents\\GitHub\\Homework-MJ-2018\\HomeworkFirst\\HomeworkFirst\\HomeworkFirst.csproj",
-      "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dell\\Documents\\GitHub\\Homework-MJ-2018\\HomeworkFirst\\HomeworkFirst\\obj\\",
+      "projectPath": "C:\\Users\\BC4276\\Desktop\\Homework-MJ-master\\HomeworkFirst\\HomeworkFirst\\HomeworkFirst.csproj",
+      "packagesPath": "C:\\Users\\BC4276\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\BC4276\\Desktop\\Homework-MJ-master\\HomeworkFirst\\HomeworkFirst\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\BC4276\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -709,7 +709,7 @@
         "dependencies": {
           "Microsoft.NETCore.App": {
             "target": "Package",
-            "version": "2.0.0",
+            "version": "[2.0.0, )",
             "autoReferenced": true
           }
         },

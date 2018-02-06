@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\BC4276\\Downloads\\Homework-MJ-master\\HomeworkSecond\\HomeworkSecond\\HomeworkSecond.csproj",
+      "projectUniqueName": "C:\\Users\\BC4276\\Desktop\\Homework-MJ-master\\HomeworkSecond\\HomeworkSecond\\HomeworkSecond.csproj",
       "projectName": "HomeworkSecond",
-      "projectPath": "C:\\Users\\BC4276\\Downloads\\Homework-MJ-master\\HomeworkSecond\\HomeworkSecond\\HomeworkSecond.csproj",
+      "projectPath": "C:\\Users\\BC4276\\Desktop\\Homework-MJ-master\\HomeworkSecond\\HomeworkSecond\\HomeworkSecond.csproj",
       "packagesPath": "C:\\Users\\BC4276\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\BC4276\\Downloads\\Homework-MJ-master\\HomeworkSecond\\HomeworkSecond\\obj\\",
+      "outputPath": "C:\\Users\\BC4276\\Desktop\\Homework-MJ-master\\HomeworkSecond\\HomeworkSecond\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
