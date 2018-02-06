@@ -1,0 +1,33 @@
+C:\Users\Dell\Desktop\New folder\Homework-master\#1\HomeworkFirst\HomeworkFirst\bin\Debug\netcoreapp2.0\HomeworkFirst.deps.json
+C:\Users\Dell\Desktop\New folder\Homework-master\#1\HomeworkFirst\HomeworkFirst\bin\Debug\netcoreapp2.0\HomeworkFirst.runtimeconfig.json
+C:\Users\Dell\Desktop\New folder\Homework-master\#1\HomeworkFirst\HomeworkFirst\bin\Debug\netcoreapp2.0\HomeworkFirst.runtimeconfig.dev.json
+C:\Users\Dell\Desktop\New folder\Homework-master\#1\HomeworkFirst\HomeworkFirst\bin\Debug\netcoreapp2.0\HomeworkFirst.dll
+C:\Users\Dell\Desktop\New folder\Homework-master\#1\HomeworkFirst\HomeworkFirst\bin\Debug\netcoreapp2.0\HomeworkFirst.pdb
+C:\Users\Dell\Desktop\New folder\Homework-master\#1\HomeworkFirst\HomeworkFirst\obj\Debug\netcoreapp2.0\HomeworkFirst.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\New folder\Homework-master\#1\HomeworkFirst\HomeworkFirst\obj\Debug\netcoreapp2.0\HomeworkFirst.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\New folder\Homework-master\#1\HomeworkFirst\HomeworkFirst\obj\Debug\netcoreapp2.0\HomeworkFirst.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\New folder\Homework-master\#1\HomeworkFirst\HomeworkFirst\obj\Debug\netcoreapp2.0\HomeworkFirst.AssemblyInfo.cs
+C:\Users\Dell\Desktop\New folder\Homework-master\#1\HomeworkFirst\HomeworkFirst\obj\Debug\netcoreapp2.0\HomeworkFirst.dll
+C:\Users\Dell\Desktop\New folder\Homework-master\#1\HomeworkFirst\HomeworkFirst\obj\Debug\netcoreapp2.0\HomeworkFirst.pdb
+C:\Users\BC4276\Downloads\Homework-MJ-master\HomeworkFirst\HomeworkFirst\bin\Debug\netcoreapp2.0\HomeworkFirst.deps.json
+C:\Users\BC4276\Downloads\Homework-MJ-master\HomeworkFirst\HomeworkFirst\bin\Debug\netcoreapp2.0\HomeworkFirst.runtimeconfig.json
+C:\Users\BC4276\Downloads\Homework-MJ-master\HomeworkFirst\HomeworkFirst\bin\Debug\netcoreapp2.0\HomeworkFirst.runtimeconfig.dev.json
+C:\Users\BC4276\Downloads\Homework-MJ-master\HomeworkFirst\HomeworkFirst\bin\Debug\netcoreapp2.0\HomeworkFirst.dll
+C:\Users\BC4276\Downloads\Homework-MJ-master\HomeworkFirst\HomeworkFirst\bin\Debug\netcoreapp2.0\HomeworkFirst.pdb
+C:\Users\BC4276\Downloads\Homework-MJ-master\HomeworkFirst\HomeworkFirst\obj\Debug\netcoreapp2.0\HomeworkFirst.csprojResolveAssemblyReference.cache
+C:\Users\BC4276\Downloads\Homework-MJ-master\HomeworkFirst\HomeworkFirst\obj\Debug\netcoreapp2.0\HomeworkFirst.csproj.CoreCompileInputs.cache
+C:\Users\BC4276\Downloads\Homework-MJ-master\HomeworkFirst\HomeworkFirst\obj\Debug\netcoreapp2.0\HomeworkFirst.AssemblyInfoInputs.cache
+C:\Users\BC4276\Downloads\Homework-MJ-master\HomeworkFirst\HomeworkFirst\obj\Debug\netcoreapp2.0\HomeworkFirst.AssemblyInfo.cs
+C:\Users\BC4276\Downloads\Homework-MJ-master\HomeworkFirst\HomeworkFirst\obj\Debug\netcoreapp2.0\HomeworkFirst.dll
+C:\Users\BC4276\Downloads\Homework-MJ-master\HomeworkFirst\HomeworkFirst\obj\Debug\netcoreapp2.0\HomeworkFirst.pdb
+C:\Users\Dell\Documents\GitHub\Homework-MJ-2018\HomeworkFirst\HomeworkFirst\bin\Debug\netcoreapp2.0\HomeworkFirst.deps.json
+C:\Users\Dell\Documents\GitHub\Homework-MJ-2018\HomeworkFirst\HomeworkFirst\bin\Debug\netcoreapp2.0\HomeworkFirst.runtimeconfig.json
+C:\Users\Dell\Documents\GitHub\Homework-MJ-2018\HomeworkFirst\HomeworkFirst\bin\Debug\netcoreapp2.0\HomeworkFirst.runtimeconfig.dev.json
+C:\Users\Dell\Documents\GitHub\Homework-MJ-2018\HomeworkFirst\HomeworkFirst\bin\Debug\netcoreapp2.0\HomeworkFirst.dll
+C:\Users\Dell\Documents\GitHub\Homework-MJ-2018\HomeworkFirst\HomeworkFirst\bin\Debug\netcoreapp2.0\HomeworkFirst.pdb
+C:\Users\Dell\Documents\GitHub\Homework-MJ-2018\HomeworkFirst\HomeworkFirst\obj\Debug\netcoreapp2.0\HomeworkFirst.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\GitHub\Homework-MJ-2018\HomeworkFirst\HomeworkFirst\obj\Debug\netcoreapp2.0\HomeworkFirst.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\GitHub\Homework-MJ-2018\HomeworkFirst\HomeworkFirst\obj\Debug\netcoreapp2.0\HomeworkFirst.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\GitHub\Homework-MJ-2018\HomeworkFirst\HomeworkFirst\obj\Debug\netcoreapp2.0\HomeworkFirst.AssemblyInfo.cs
+C:\Users\Dell\Documents\GitHub\Homework-MJ-2018\HomeworkFirst\HomeworkFirst\obj\Debug\netcoreapp2.0\HomeworkFirst.dll
+C:\Users\Dell\Documents\GitHub\Homework-MJ-2018\HomeworkFirst\HomeworkFirst\obj\Debug\netcoreapp2.0\HomeworkFirst.pdb

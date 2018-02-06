@@ -1,0 +1,7 @@
+C:\Users\BC4276\Desktop\nd nr 2\#2\BrokenLink\bin\Debug\BrokenLink.exe.config
+C:\Users\BC4276\Desktop\nd nr 2\#2\BrokenLink\bin\Debug\BrokenLink.exe
+C:\Users\BC4276\Desktop\nd nr 2\#2\BrokenLink\bin\Debug\BrokenLink.pdb
+C:\Users\BC4276\Desktop\nd nr 2\#2\BrokenLink\obj\Debug\BrokenLink.csprojResolveAssemblyReference.cache
+C:\Users\BC4276\Desktop\nd nr 2\#2\BrokenLink\obj\Debug\BrokenLink.csproj.CoreCompileInputs.cache
+C:\Users\BC4276\Desktop\nd nr 2\#2\BrokenLink\obj\Debug\BrokenLink.exe
+C:\Users\BC4276\Desktop\nd nr 2\#2\BrokenLink\obj\Debug\BrokenLink.pdb

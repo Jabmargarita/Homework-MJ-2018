@@ -1,0 +1,16 @@
+C:\Users\BC4276\Desktop\nd nr 2\#2\BrokenLink.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\BC4276\Desktop\nd nr 2\#2\BrokenLink.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\BC4276\Desktop\nd nr 2\#2\BrokenLink.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\BC4276\Desktop\nd nr 2\#2\BrokenLink.Tests\bin\Debug\BrokenLink.Tests.dll
+C:\Users\BC4276\Desktop\nd nr 2\#2\BrokenLink.Tests\bin\Debug\BrokenLink.Tests.pdb
+C:\Users\BC4276\Desktop\nd nr 2\#2\BrokenLink.Tests\bin\Debug\BrokenLink.exe
+C:\Users\BC4276\Desktop\nd nr 2\#2\BrokenLink.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\BC4276\Desktop\nd nr 2\#2\BrokenLink.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\BC4276\Desktop\nd nr 2\#2\BrokenLink.Tests\bin\Debug\BrokenLink.pdb
+C:\Users\BC4276\Desktop\nd nr 2\#2\BrokenLink.Tests\bin\Debug\BrokenLink.exe.config
+C:\Users\BC4276\Desktop\nd nr 2\#2\BrokenLink.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\BC4276\Desktop\nd nr 2\#2\BrokenLink.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\BC4276\Desktop\nd nr 2\#2\BrokenLink.Tests\obj\Debug\BrokenLink.Tests.csprojResolveAssemblyReference.cache
+C:\Users\BC4276\Desktop\nd nr 2\#2\BrokenLink.Tests\obj\Debug\BrokenLink.Tests.csproj.CoreCompileInputs.cache
+C:\Users\BC4276\Desktop\nd nr 2\#2\BrokenLink.Tests\obj\Debug\BrokenLink.Tests.dll
+C:\Users\BC4276\Desktop\nd nr 2\#2\BrokenLink.Tests\obj\Debug\BrokenLink.Tests.pdb
