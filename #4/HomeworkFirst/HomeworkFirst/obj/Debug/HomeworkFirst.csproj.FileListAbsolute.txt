@@ -1,0 +1,7 @@
+C:\Users\BC4276\Desktop\#4\HomeworkFirst\HomeworkFirst\bin\Debug\HomeworkFirst.exe.config
+C:\Users\BC4276\Desktop\#4\HomeworkFirst\HomeworkFirst\bin\Debug\HomeworkFirst.exe
+C:\Users\BC4276\Desktop\#4\HomeworkFirst\HomeworkFirst\bin\Debug\HomeworkFirst.pdb
+C:\Users\BC4276\Desktop\#4\HomeworkFirst\HomeworkFirst\obj\Debug\HomeworkFirst.csprojResolveAssemblyReference.cache
+C:\Users\BC4276\Desktop\#4\HomeworkFirst\HomeworkFirst\obj\Debug\HomeworkFirst.csproj.CoreCompileInputs.cache
+C:\Users\BC4276\Desktop\#4\HomeworkFirst\HomeworkFirst\obj\Debug\HomeworkFirst.exe
+C:\Users\BC4276\Desktop\#4\HomeworkFirst\HomeworkFirst\obj\Debug\HomeworkFirst.pdb
