@@ -130,12 +130,11 @@ namespace BrokenLink
             }
         }
 
-        public override string ToString()
+  public override string ToString()
         {   // should print all members separated by comma (CSV format) - 1,2,3,4
             
             string myString = "";
-            char[] comma = { ',' };
-
+           
            if (_head == null || _head.Value == null)
                 
             {
@@ -143,15 +142,20 @@ namespace BrokenLink
             }
             else{
                 Node current = _head;
-                for (int i = 0; i < Count; i++)
+                while (current != null)
                 {
-                    myString = myString + current.Value + ",";
+                    if (myString == "")
+                    {
+                        myString = current.Value;
+                    }
+                    else
+                    {
+                        myString = myString + "," + current.Value;
+                    }
                     current = current.Next;
                 }
-              
+                return myString;
             }
-            myString = myString.TrimEnd(comma);
-            return myString;
         } 
  
         public string ToStringReverse()
@@ -165,8 +169,20 @@ namespace BrokenLink
             else
             {
                 Node current = _head;
+                while (current != null)
+                {
+                    if (myString =="")
+                    {
+                        myString = current.Value;
+
+                    } else
+                    {
+                        myString = current.Value + "," + myString;
+                    }current = current.Next;
+                }
+                return myString;
             }
-            //paskaityti https://www.codeproject.com/Articles/27742/How-To-Reverse-a-Linked-List-Different-Ways
+           
             // should print all members separated by comma in reverse order (figure the best and most performant way) - 4,3,2,1
         }
 
@@ -174,31 +190,36 @@ namespace BrokenLink
         {
             get
             {
-               Node current = _head;
+                Node current = _head;
 
-               if (index < 0)
+                if (index == 0 && _head != null)
                 {
-                    throw new ArgumentOutOfRangeException();
+                    return current.Value;
                 }
-                if (index >= this.Count)
+                else if (_head != null)
                 {
-                    index = this.Count - 1;
-                    
+                    int count = 0;
 
-                    for (int i = 0; i < index; i++)
+                    while (current.Next != null)
                     {
+                        if (count == index)
+                        {
+                            return current.Value;
+                        }
+                        count++;
                         current = current.Next;
-                        return current.Value;
                     }
 
                 }
-                return current.Value;
-               
+                throw new IndexOutOfRangeException();
             }
             set
             {
                 throw new NotImplementedException();
+
+                //kas cia turetu buti????
             }
         }
     }
 }
+
